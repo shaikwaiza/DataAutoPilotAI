@@ -19,6 +19,25 @@ Users can upload a CSV file, inspect data quality, handle missing values and dup
 - **AI-Powered Q&A:** Ask questions about dataset statistics using the Gemini API and Python-calculated summaries.
 - **Downloadable Reports:** Export cleaned CSV files and analysis reports.
 
+
+## 📸 Application Screenshots
+
+### Dataset Overview
+![Overview tab](screenshots/Overview%20tab.png)
+
+### Data Cleaning
+![Clean tab](screenshots/Clean%20tab.png)
+
+### Exploratory Data Analysis
+![EDA tab](screenshots/EDA%20tab.png)
+
+### Smart Data Insights
+![Insights tab](screenshots/Insights%20tab.png)
+
+### Gemini-Powered Q&A
+![Ask AI tab](screenshots/Ask%20AI%20tab.png)
+
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python
